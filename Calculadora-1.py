@@ -1,3 +1,5 @@
+#Flores Lara Alberto
+#Saucillo González Jesse Obed 
 class Calculadora_python:
 
     #Definimos los valores fijos de la calculadora
